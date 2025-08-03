@@ -19,7 +19,7 @@
                 <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -31,7 +31,7 @@
                  <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -43,7 +43,7 @@
                  <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -55,7 +55,7 @@
                  <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -67,7 +67,7 @@
                  <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -79,7 +79,7 @@
                  <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -91,7 +91,7 @@
                       <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -103,7 +103,7 @@
                       <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -115,7 +115,7 @@
                       <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -127,7 +127,7 @@
                       <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -139,7 +139,7 @@
                       <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -168,7 +168,7 @@
                <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -181,7 +181,7 @@
                     <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -194,7 +194,7 @@
                <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -207,7 +207,7 @@
                     <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -220,7 +220,7 @@
                <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -233,7 +233,7 @@
                     <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -246,7 +246,7 @@
                 <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -259,7 +259,7 @@
                 <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -272,7 +272,7 @@
                 <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -299,7 +299,7 @@
                 <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -312,7 +312,7 @@
                     <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -326,7 +326,7 @@
                         <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -338,7 +338,7 @@
                   <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -351,7 +351,7 @@
                     <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -363,7 +363,7 @@
                 <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
@@ -376,7 +376,7 @@
                     <tr>
                   <td>
                     <div class="hero__table-item--coin">
-                      <img src="public/icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
+                      <img src="./icons/bitcoin.svg" alt="bitcoin" width="32" height="32">Bitcoin / BTC
                     </div>
                   </td>
                   <td>₿ 1.00 BTC</td>
